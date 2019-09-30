@@ -17,7 +17,7 @@ If you would like to tinker with the parameters of the simulation, you can do so
 
 ## Usage
 
-If you would simply like to run the simulation with default parameters, you can start the built file [Builds/Applying EANNs.exe](Builds/Applying EANNs.exe).
+If you would simply like to run the simulation with default parameters, you can start the built file [Build/Applying EANNs.exe](Build/Applying EANNs.exe).
 
 
 ## The Neural Network
