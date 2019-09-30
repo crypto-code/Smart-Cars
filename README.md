@@ -1,5 +1,4 @@
 # Smart-Cars
-# Applying Evolutionary Artificial Neural Networks
 
 A 2D Unity simulation in which cars learn to navigate themselves through different courses. The cars are steered by a FeedForward Neural Network. The weights of the network are trained using a modified genetic algorithm.
 
@@ -13,7 +12,12 @@ Cars have to navigate through a course without touching the walls or any other o
 <img src="Images/Car.png" width="250">
 
 
-If you would like to tinker with the parameters of the simulation, you can do so in the Unity Editor. If you would simply like to run the simulation with default parameters, you can start the built file [Builds/Applying EANNs.exe](Builds/Applying EANNs.exe).
+If you would like to tinker with the parameters of the simulation, you can do so in the Unity Editor. 
+
+
+## Usage
+
+If you would simply like to run the simulation with default parameters, you can start the built file [Builds/Applying EANNs.exe](Builds/Applying EANNs.exe).
 
 
 ## The Neural Network
